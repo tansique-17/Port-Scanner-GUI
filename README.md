@@ -74,5 +74,5 @@ Below is a screenshot of the Port Scanner in action:
 **GitHub**: [tansique-17](https://github.com/tansique-17)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/tansique-17/Port-Scanner/blob/main/LICENSE) file for details.
 
