@@ -46,7 +46,8 @@ pip install customtkinter
 ## Screenshot
 Below is a screenshot of the Port Scanner in action:
 
-![Port Scanner](https://github.com/user-attachments/assets/3ffcb80c-b1e6-4ae5-8c8b-cdc75ea1b462)
+![Port Scanner](https://github.com/user-attachments/assets/7469692b-fd74-41b6-9e59-919f0da25648)
+
 
 
 ## GUI Components
