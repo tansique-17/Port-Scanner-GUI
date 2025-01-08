@@ -36,7 +36,7 @@ pip install customtkinter
 ## Usage
 1. Run the program:
    ```bash
-   python port_scanner.py
+   python scanner.py
    ```
 2. Enter the target (IP address or URL) in the "Target" field.
 3. Optionally specify the start and end ports for scanning (default is 1-1024).
